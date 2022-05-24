@@ -1,0 +1,25 @@
+country,city,iso_currency,supermarket,link_to_scrap,xpath,cm3
+Argentina,Buenos Aires,ARS,WalMart,https://www.masonline.com.ar/gaseosa-coca-cola-sabor-original-354-ml/p,"//span[@class=""vtex-store-components-3-x-sellingPrice vtex-store-components-3-x-sellingPriceValue t-heading-2-s dib ph2 vtex-store-components-3-x-price_sellingPrice""]/span[@class=""vtex-store-components-3-x-currencyContainer""]/descendant::span/text()",354
+Brazil,Brazilia,BRL,ClubeExtra,https://www.clubeextra.com.br/produto/116609/coca-cola-sabor-original-lata-350ml,"//div[@class=""current-pricesectionstyles__CurrentPrice-sc-17j9p6i-0 drikI""]/p/text()",350
+Canada,Ottawa,CAD,WalMart,https://www.walmart.ca/en/ip/coca-cola-355ml-cans-12-pack/6000016955730,"//div[@class=""css-r6pcoo e1906lj52""]//span[@class=""css-2vqe5n esdkp3p0""]/text()",4260
+Chile,Santiago de Chile,CLP,Jumbo,https://www.jumbo.cl/bebida-coca-cola-lata-350-cc/p,"//div[@class=""product-info-wrapper""]//span[@class=""product-sigle-price-wrapper""]/text()",350
+Colombia,Bogota,COP,Merqueo,https://merqueo.com/bogota/super-ahorro/bebidas/gaseosas/gaseosa-coca-cola-sabor-original-x6-unds-235-ml?viewImage=1&search=coca%20cola,"//div[@class=""mq-product-discounts""]//p[@class=""tx-firts-buy-price""]/span/text()",1410
+Cuba,La Habana,USD,SuperMarket23,https://www.supermarket23.com/es/producto/103846,"//div[@class=""row""]//span[@class=""regular_price""]/text()",355
+Egypt,El Cairo,EGP,Spinney,https://spinneys-egypt.com/en/products/104946#/,"//div[@class=""form-container row   pt-4 pb-2 w-100 px-6 px-md-3 px-2 deails-wrapp ""]//span[@class=""colored priceAfter mb-0 mr-2""]/text()",330
+England,Londres,GBP,Ocado,https://www.ocado.com/products/coca-cola-original-taste-16292011,"//article[@class=""bop gn-content bop-layout""]//h2[@class=""bop-price__current ""]/text()",150
+France,Paris,EUR,Carrefour,https://www.carrefour.fr/p/soda-coca-cola-5449000296085,"//div[@class=""main-details__wrap main-details--food""]//div[@class=""product-card-price__price""]//font[@style=""vertical-align: inherit;""]/text()",3960
+Germany,Berlin,EUR,Kaufland,https://www.kaufland.de/product/146450011/?id_unit=385112622468&ref=spa_search_page_w1&mabref=coca%20cola&search_value=coca%20cola,"//div[@class=""rd-sidebar""]//p[@class=""rd-price-information__price""]/text()",7920
+Holanda,Amsterdam,EUR,Jumbo,https://www.jumbo.com/producten/coca-cola-original-taste-12-x-330ml-473149PAK,"//div[@class=""jum-panel my product-panel accent-bottom""]//div[@class=""current-price""]//text()",3960
+Italy,Rome,EUR,Carrefour,https://www.carrefour.it/p/coca-cola-original-taste-330ml-x-4--lattina-/5449000220288.html,"//div[@class=""product-main""]//span[@class=""value ""]/text()",1320
+Madagascar,Antananarivo,MGA,Supermarche,https://supermarche.mg/produit/coca-cola-35-cl-boisson-fraiche-bouteille-en-pet-recyclable/,"//div[@class=""woosb-price""]//font[@style=""vertical-align: inherit;""]/text()",350
+Mexico,Mexico City,MXN,Walmart,https://super.walmart.com.mx/refrescos/refresco-coca-cola-sabor-original-6-latas-de-355-ml-c-u/00750105536533,"//div[@class=""main-content_container__iulMq""]//h4/text()",2130
+Sweden,Stockholm,SEK,Mat,https://www.mat.se/butik/original-inkl-pant-coca-cola-33cl,"//div[@class=""text_big  ""]/descendant::text()",330
+Panamá,Panamá,PAB,Superunico,https://superunico.com/product/coca-cola-sabor-original-354-ml-pack-de-12/,"//div[@class=""row product-image-summary-wrap""]//bdi/child::bdi/text()",4248
+Peru,Lima,PEN,Wong,https://www.wong.pe/gaseosa-coca-cola-sin-azucar-botella-500-ml-203645/p,"//div[@class=""product-info""]//strong[@class=""skuBestPrice""]/text()",500
+South Africa,Cape Town,ZAR,Woolworths,https://www.woolworths.co.za/prod/Food/Beverages-Juices/Sodas/Branded-Soda/Coca-Cola-Original-Soft-Drink-Can-300-ml/_/A-5449000256805?isFromPLP=true,"//span[@class=""price prod�price""]/text()",300
+South Corea,Seoul,KRW,Homeplus,https://front.homeplus.co.kr/item?itemNo=132795983&storeType=HYPER,"//em[@class=""priceValue""]/text()",1290
+Spain,Madrid,EUR,Carrefour,https://www.carrefour.es/supermercado/coca-cola-pack-12-latas-33-cl/R-530014303/p?ic_source=portal-y-corporativo&ic_medium=search-empathy&ic_content=ns,"//span[@class=""buybox__price""]/text()",3960
+United States,Washington,USD,Walmart,https://www.walmart.com/ip/Coca-Cola-Original-Soda-Pop-12-Fl-Oz-12-Pack-Cans/12166733,"//span[@itemprop=""price""]/text()",4260
+Uruguay,Montevideo,UYU,Disco,https://www.disco.com.uy/buscapagina/?sc=4&cc=4&sm=2&sl=0dff04eb-47b9-473c-ae9a-1cad6ddf439a&PS=1&PageNumber=1&fq=skuId:12263,"//div[@class=""Product-price-alt precio-antes precio-secundario u-hide""]/text()",354
+Venezuela,Caracas,USD,Tugentevenezuela,https://www.tugentevenezuela.com/products/refresco-de-cola-en-lata-330ml,"//div[@class=""product__details grid__item""]//span[@class=""money conversion-bear-money""]/text()",500
+Japan,Tokyo,JPY,Rakuten Seiyu,https://sm.rakuten.co.jp/item/4902102137065,"//p[@class=""product-detail-price""]/text()",350
