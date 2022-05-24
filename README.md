@@ -3,4 +3,4 @@ This project ask the question of how many cans you can buy with 1000 ARS(Argenti
 
 For it, I have scraped grocery shops in several cities around the world. Then I have created a DataFrame and ploted the data recolected in a Bar Chart.
 
-In this project, I used Python libraries like Requests, BeautifulSoup, Xmls for scrape and parse. And Pandas, Matplotlib, Seaborn to make the plot.
+In this project, I used Python libraries like Requests, BeautifulSoup, Xmls for scrape and parse, Pandas, Matplotlib, Seaborn to make the plot and apilayer(https://apilayer.com/) to make currency converts.
